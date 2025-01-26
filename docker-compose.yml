@@ -1,0 +1,23 @@
+services:
+  airflow-webserver:
+    image: apache/airflow:2.7.2
+    ports:
+      - "8080:8080"
+    environment:
+      - AIRFLOW__CORE__SQL_ALCHEMY_CONN=sqlite:////opt/airflow/airflow.db
+      - AIRFLOW__WEBSERVER__AUTHENTICATE=True 
+      - AIRFLOW__WEBSERVER__USER=admin        
+      - AIRFLOW__WEBSERVER__PASSWORD=admin    
+    volumes:
+      - ./airflow:/opt/airflow
+    command: webserver
+    depends_on:
+      - airflow-scheduler
+
+  airflow-scheduler:
+    image: apache/airflow:2.7.2
+    environment:
+      - AIRFLOW__CORE__SQL_ALCHEMY_CONN=sqlite:////opt/airflow/airflow.db
+    volumes:
+      - ./airflow:/opt/airflow
+    command: scheduler

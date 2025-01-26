@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "",
+        "industry": "\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Boise Metropolitan Area\", \"addressRegion\": null, \"postalCode\": \"83709\", \"streetAddress\": null}, \"latitude\": 43.604378, \"longitude\": -116.204384}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-03T18:35:19.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "description": "\": \"Click the following link to review the full position description and to apply:&lt;br&gt;https://recruiting.ultipro.com/CAP1012/JobBoard/a4f3ab9c-7963-cd0a-9ab6-62060f9d9cc3/OpportunityDetail?opportunityId=5619f611-9ed3-4d7d-afd0-adcd1dd2383b\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"CapEd Credit Union\", \"sameAs\": \"https://www.linkedin.com/company/capedcu\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGXipb8mNeVMQ/company-logo_200_200/0/1519898081122?e=1635984000&amp;v=beta&amp;t=4k2zCuv-yOfvOZVJ0fpWDSZCeHpvbzCIs430hVMM81g\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"CapEd Credit Union\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGXipb8mNeVMQ/company-logo_100_100/0/1519898081122?e=1635984000&amp;v=beta&amp;t=RII-3f9Nuw-IJg9-Jr97DY01wUjR0tqJZg3FpYC-eYU\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Boise Metropolitan Area\", \"addressRegion\": null, \"postalCode\": \"83709\", \"streetAddress\": null}, \"latitude\": 43.604378, \"longitude\": -116.204384}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-03T18:35:19.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "employment_type": "",
+        "date_posted": ""
+    },
+    "company": {
+        "name": "",
+        "link": ""
+    },
+    "education": {
+        "required_credential": ""
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": "yDetail?opportunityId=5619f611-9ed3-4d7d-afd0-adcd1dd2383b\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"CapEd Credit Union\", \"sameAs\": \"https://www.linkedin.com/company/capedcu\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGXipb8mNeVMQ/company-logo_200_200/0/1519898081122?e=1635984000&amp;v=beta&amp;t=4k2zCuv-yOfvOZVJ0fpWDSZCeHpvbzCIs430hVMM81g\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"CapEd Credit Union\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGXipb8mNeVMQ/company-logo_100_100/0/1519898081122?e=1635984000&amp;v=beta&amp;t=RII-3f9Nuw-IJg9-Jr97DY01wUjR0tqJZg3FpYC-eYU\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Boise Metropolitan Area\", \"addressRegion\": null, \"postalCode\": \"83709\", \"streetAddress\": null}, \"latitude\": 43.604378, \"longitude\": -116.204384}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-03T18:35:19.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}"
+    },
+    "location": {
+        "country": "\": \"US\", \"addressLocality\": \"Boise Metropolitan Area\", \"addressRegion\": null, \"postalCode\": \"83709\", \"streetAddress\": null}, \"latitude\": 43.604378, \"longitude\": -116.204384}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-03T18:35:19.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "locality": "\": \"Boise Metropolitan Area\", \"addressRegion\": null, \"postalCode\": \"83709\", \"streetAddress\": null}, \"latitude\": 43.604378, \"longitude\": -116.204384}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-03T18:35:19.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "region": "\": null, \"postalCode\": \"83709\", \"streetAddress\": null}, \"latitude\": 43.604378, \"longitude\": -116.204384}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-03T18:35:19.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "postal_code": "",
+        "street_address": "",
+        "latitude": "\": 43.604378, \"longitude\": -116.204384}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-03T18:35:19.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "longitude": "\": -116.204384}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-03T18:35:19.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}"
+    }
+}

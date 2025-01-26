@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "",
+        "industry": "\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Huntsville\", \"addressRegion\": \"AL\", \"postalCode\": \"35897\", \"streetAddress\": null}, \"latitude\": 34.72954, \"longitude\": -86.585304}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-10-01T16:16:07.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "description": "\": \"Multiple opportunities in Huntsville, AL for Software Engineers! See below for a snapshot of what we would be looking for: &lt;br&gt;- High level of proficiency in Python and/or C++&lt;br&gt;- Experience with Linux&lt;br&gt;- Embedded systems experience&lt;br&gt;- Experience using software tools like Jira, Confluence, Git, Bitbucket, etc.&lt;br&gt;- Experience with automated software test development\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"BAE Systems\", \"sameAs\": \"https://uk.linkedin.com/company/bae-systems\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFmSe08jSvBIg/company-logo_200_200/0/1618725680307?e=1638403200&amp;v=beta&amp;t=l7BK3H5S9aeIwMHQXWJmKNVpN6Ufqtx8lIxWPdbL24s\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"BAE Systems\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFmSe08jSvBIg/company-logo_100_100/0/1618725680307?e=1638403200&amp;v=beta&amp;t=nVuVlkElUKoXEXVRa1E3M53T6xRIux4SmsaH5fLiJp8\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Huntsville\", \"addressRegion\": \"AL\", \"postalCode\": \"35897\", \"streetAddress\": null}, \"latitude\": 34.72954, \"longitude\": -86.585304}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-10-01T16:16:07.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "employment_type": "",
+        "date_posted": ""
+    },
+    "company": {
+        "name": "",
+        "link": ""
+    },
+    "education": {
+        "required_credential": ""
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": "ies in Huntsville, AL for Software Engineers! See below for a snapshot of what we would be looking for: &lt;br&gt;- High level of proficiency in Python and/or C++&lt;br&gt;- Experience with Linux&lt;br&gt;- Embedded systems experience&lt;br&gt;- Experience using software tools like Jira, Confluence, Git, Bitbucket, etc.&lt;br&gt;- Experience with automated software test development\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"BAE Systems\", \"sameAs\": \"https://uk.linkedin.com/company/bae-systems\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFmSe08jSvBIg/company-logo_200_200/0/1618725680307?e=1638403200&amp;v=beta&amp;t=l7BK3H5S9aeIwMHQXWJmKNVpN6Ufqtx8lIxWPdbL24s\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"BAE Systems\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFmSe08jSvBIg/company-logo_100_100/0/1618725680307?e=1638403200&amp;v=beta&amp;t=nVuVlkElUKoXEXVRa1E3M53T6xRIux4SmsaH5fLiJp8\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Huntsville\", \"addressRegion\": \"AL\", \"postalCode\": \"35897\", \"streetAddress\": null}, \"latitude\": 34.72954, \"longitude\": -86.585304}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-10-01T16:16:07.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}"
+    },
+    "location": {
+        "country": "\": \"US\", \"addressLocality\": \"Huntsville\", \"addressRegion\": \"AL\", \"postalCode\": \"35897\", \"streetAddress\": null}, \"latitude\": 34.72954, \"longitude\": -86.585304}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-10-01T16:16:07.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "locality": "\": \"Huntsville\", \"addressRegion\": \"AL\", \"postalCode\": \"35897\", \"streetAddress\": null}, \"latitude\": 34.72954, \"longitude\": -86.585304}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-10-01T16:16:07.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "region": "\": \"AL\", \"postalCode\": \"35897\", \"streetAddress\": null}, \"latitude\": 34.72954, \"longitude\": -86.585304}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-10-01T16:16:07.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "postal_code": "",
+        "street_address": "",
+        "latitude": "\": 34.72954, \"longitude\": -86.585304}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-10-01T16:16:07.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "longitude": "\": -86.585304}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-10-01T16:16:07.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}"
+    }
+}

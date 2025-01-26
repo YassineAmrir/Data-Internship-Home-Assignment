@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "",
+        "industry": "\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Diego\", \"addressRegion\": \"CA\", \"postalCode\": \"92161\", \"streetAddress\": null}, \"latitude\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Data Engineer\", \"validThrough\": \"2021-08-08T18:29:46.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}}",
+        "description": "\": \"6+ years experience&lt;br&gt;Must have experience with AWS and Python\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Enterprise Solutions Inc.\", \"sameAs\": \"https://www.linkedin.com/company/enterprise-solution-inc-\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQGcsPvV4queng/company-logo_200_200/0/1521573992308?e=1634774400&amp;v=beta&amp;t=IFix_Rl3pGDBJTGo0rCBk_-iPfQIE257znRFJE9WEDM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Enterprise Solutions Inc.\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQGcsPvV4queng/company-logo_100_100/0/1521573992308?e=1634774400&amp;v=beta&amp;t=uXNP7o9zNICBN0lUwwziodIlY97WoIcddNc_ieRhanM\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Diego\", \"addressRegion\": \"CA\", \"postalCode\": \"92161\", \"streetAddress\": null}, \"latitude\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Data Engineer\", \"validThrough\": \"2021-08-08T18:29:46.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}}",
+        "employment_type": "",
+        "date_posted": ""
+    },
+    "company": {
+        "name": "",
+        "link": ""
+    },
+    "education": {
+        "required_credential": ""
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "\": \"US\", \"addressLocality\": \"San Diego\", \"addressRegion\": \"CA\", \"postalCode\": \"92161\", \"streetAddress\": null}, \"latitude\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Data Engineer\", \"validThrough\": \"2021-08-08T18:29:46.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}}",
+        "locality": "\": \"San Diego\", \"addressRegion\": \"CA\", \"postalCode\": \"92161\", \"streetAddress\": null}, \"latitude\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Data Engineer\", \"validThrough\": \"2021-08-08T18:29:46.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}}",
+        "region": "\": \"CA\", \"postalCode\": \"92161\", \"streetAddress\": null}, \"latitude\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Data Engineer\", \"validThrough\": \"2021-08-08T18:29:46.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}}",
+        "postal_code": "",
+        "street_address": "",
+        "latitude": "\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Data Engineer\", \"validThrough\": \"2021-08-08T18:29:46.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}}",
+        "longitude": "\": -117.16382}, \"skills\": \"\", \"title\": \"Data Engineer\", \"validThrough\": \"2021-08-08T18:29:46.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}}"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "",
+        "industry": "\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Mountain View\", \"addressRegion\": \"CA\", \"postalCode\": \"94040\", \"streetAddress\": null}, \"latitude\": 37.39008, \"longitude\": -122.08139}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-10-07T23:32:28.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "description": "\": \"&lt;p&gt;&lt;strong&gt;Must have Skills&lt;/strong&gt; : Strong Implementation of&amp;nbsp;machine learning algorithms (k-NN, Ensemble Methods; Boosting, Bagging, Support Vector Machines (SVM), Random Forests, ML Models) ,&amp;nbsp;Deep Learning (CNN, RNN) using&amp;nbsp;TensorFlow&amp;nbsp;. Good Hands-on Knowledge in Python, SQL and Linux.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Tech Mahindra\", \"sameAs\": \"https://in.linkedin.com/company/tech-mahindra\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQE0Mzghahmvyg/company-logo_200_200/0/1625138031939?e=1639008000&amp;v=beta&amp;t=pOIGSsNglSzkXQaUqEK97WBaWssbUbWBptxqGRkFAgI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Tech Mahindra\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQE0Mzghahmvyg/company-logo_100_100/0/1625138031939?e=1639008000&amp;v=beta&amp;t=xTCdS5J0oeUnIqhLQuKmxtRcEVQuiCFLMOE4sCxAOfk\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Mountain View\", \"addressRegion\": \"CA\", \"postalCode\": \"94040\", \"streetAddress\": null}, \"latitude\": 37.39008, \"longitude\": -122.08139}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-10-07T23:32:28.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "employment_type": "",
+        "date_posted": ""
+    },
+    "company": {
+        "name": "",
+        "link": ""
+    },
+    "education": {
+        "required_credential": ""
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "\": \"US\", \"addressLocality\": \"Mountain View\", \"addressRegion\": \"CA\", \"postalCode\": \"94040\", \"streetAddress\": null}, \"latitude\": 37.39008, \"longitude\": -122.08139}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-10-07T23:32:28.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "locality": "\": \"Mountain View\", \"addressRegion\": \"CA\", \"postalCode\": \"94040\", \"streetAddress\": null}, \"latitude\": 37.39008, \"longitude\": -122.08139}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-10-07T23:32:28.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "region": "\": \"CA\", \"postalCode\": \"94040\", \"streetAddress\": null}, \"latitude\": 37.39008, \"longitude\": -122.08139}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-10-07T23:32:28.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "postal_code": "",
+        "street_address": "",
+        "latitude": "\": 37.39008, \"longitude\": -122.08139}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-10-07T23:32:28.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+        "longitude": "\": -122.08139}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-10-07T23:32:28.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}"
+    }
+}
